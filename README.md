@@ -1,1 +1,2 @@
-## Account made for testing purposes, @winaviation is my main profile.
+## Account made for testing purposes
+<a href="/winaviation">main profile</a>
